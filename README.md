@@ -9,6 +9,9 @@ In order to accomplish this objective, the following data source will be used:
 
 ## DATA DESCRIPTION
 
+### _Data on Worldwide Master's Programs _
+
+This dataset 
 
 
 
@@ -23,13 +26,6 @@ The application's primary objective is to provide a comprehensive and straightfo
 
 In the folder 'Final_Report', you will be able to find the Final Report on the MasterMatch program development which details the development of the startup from the inception till the final stages of development along with user testing, conclusions and next steps. 
 
-## BIBLIOGRAPHY
-
-
-
-
-
-
 
 ## How to Install and Run the Project
 
@@ -40,8 +36,10 @@ pandas
 numpy 
 Textwrap
 
-
 Lastly, to run the program, you should make sure that the condition __name__ == "__main__" holds true in order for the algorithm to execute when running the file. Alternatively, you may run main() separately. The algorithm should now execute. 
+
+## BIBLIOGRAPHY
+
 
 
 
