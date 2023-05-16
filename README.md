@@ -11,9 +11,35 @@ In order to accomplish this objective, the following data source will be used:
 
 ### _Data on Worldwide Master's Programs _
 
-This dataset 
+This repository contains a comprehensive dataset of 60,442 master's degree programs from 99 countries around the world. The dataset provides a rich variety of information on each program, making it a valuable resource for anyone interested in higher education research, academic advising, and international education policy.
 
+The dataset is composed of 23 columns, providing detailed information about each program:
 
+- **country_name**: The name of the country where the university is located.
+- **country_code**: The ISO country code corresponding to country_name.
+- **university_name**: The name of the university offering the master's program.
+- **university_rank**: The global ranking of the university.
+- **program_name**: The name of the master's program.
+- **program_type**: The type or field of the master's program.
+- **deadline**: The application deadline for the program.
+- **duration**: The duration of the program, typically in years or semesters.
+- **language**: The language of instruction in the program.
+- **tution_1_currency**: The currency of the first tuition fee listed.
+- **tution_1_money**: The amount of the first tuition fee listed.
+- **tution_1_type**: The type of the first tuition fee (e.g., per semester, per year, total).
+- **tution_2_currency**: The currency of the second tuition fee listed, if applicable.
+- **tution_2_money**: The amount of the second tuition fee listed, if applicable.
+- **tution_2_type**: The type of the tuition payment (e.g., national, international, EU/EEA etc.), if applicable.
+- **tuition_price_specification**: Additional specifications about the tuition price.
+- **start_date**: The start date of the program.
+- **ielts_score**: The minimum IELTS score required for the program, if any.
+- **structure**: The structure of the program.
+- **academic_req**: Academic requirements for admission to the program.
+- **facts**: Additional facts or notes about the program.
+- **city**: The city where the university is located.
+- **program_url**: The URL of the program's webpage.
+
+Please note that some columns may contain null or missing values, depending on the specific program or university. This is a result of the diverse and international nature of the dataset. Therefore, pay close attention to the instructions in the 'CODE DESCRIPTION' section below. 
 
 ## PROJECT DESCRIPTION
 
