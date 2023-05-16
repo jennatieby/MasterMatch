@@ -26,7 +26,7 @@ In order to run the final MasterMatch program, you are only required to download
 
 To execute the code it will be necessary to have Jupyter Notebooks or Google Collaboratory. The MasterMatch project was developed in Google Collaboratory. To run the program, execute the following script and follow the specified instructions: 
 
-###'_MasterMatch_'
+### '_MasterMatch_'
 
 Having realised our project in one single .ipynb file, in  order to use it, you must simply download this file. Before running it, it is additionally necessary to download the dataset provided, and load it in the appropriate manner to your python interpreter (or google colab). In the .ipynb file we provided, the first few lines of code are dedicated to mounting the google drive and reading the csv from there. It is essential to adapt this section, as the location of the downloaded csv dataset will be a different one on your device, most likely not on google drive, except for if you upload it to your drive beforehand. Hence, please adapt the input for the read_csv command accordingly to where your dataset is stored. Additionally, ensure you run the 'CLEANING THE DATA' section in the python script before running the program to avoid crashes due to NA values. 
 
