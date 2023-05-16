@@ -39,7 +39,7 @@ Lastly, to run the program, you should make sure that the condition __name__ == 
 
 ## FINAL REPORT
 
-In the folder 'Final_Report', you will be able to find the Final Report on the MasterMatch program development which details the development of the startup from the inception till the final stages of development along with user testing, conclusions and next steps. The document is called 'Final Report'.
+In the folder 'Final Report', you will be able to find the Final Report on the MasterMatch program development which details the development of the startup from the inception till the final stages of development along with user testing, conclusions and next steps. The document is called 'Final Report'.
 
 
 ## BIBLIOGRAPHY
